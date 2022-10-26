@@ -1,0 +1,17 @@
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\WindowsFormSifremiUnuttum.exe.config
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\WindowsFormSifremiUnuttum.exe
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\WindowsFormSifremiUnuttum.pdb
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.Form1.resources
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.GirisBasarili.resources
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.Properties.Resources.resources
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.csproj.CopyComplete
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.exe
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.pdb
+C:\Users\Furkan\source\repos\WindowsFormSifremiUnuttum\WindowsFormSifremiUnuttum\obj\Debug\WindowsFormSifremiUnuttum.SifreYenile.resources
